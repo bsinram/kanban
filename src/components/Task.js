@@ -21,5 +21,3 @@ function Task({ id, name, type, createDate }) {
     </div>
   );
 }
-
-export default Task;
